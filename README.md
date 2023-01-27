@@ -7,4 +7,4 @@ Double gator grad :crocodile: :crocodile: and first-year doctoral student in UFâ
 - Cycling :biking_woman:
 - Reading :books:
 - Drinking copious amounts of coffee :coffee:
-- Unashamed crazy cat lady :smile_cat:
+- Unashamed cat lady :smile_cat:
