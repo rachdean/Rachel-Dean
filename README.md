@@ -1,5 +1,5 @@
 # Rachel-Dean
-\ :crocodile: 2nd-year doc student in UF’s Higher Education Administration and Policy Ph.D. program :woman_student:
+:crocodile: 2nd-year doc student in UF’s Higher Education Administration and Policy Ph.D. program :woman_student:
 ### Research interests: 
 - Leveraging machine learning analytics to predict student outcomes and develop practical solutions for complex educational challenges 
 ### Spare time interests: 
